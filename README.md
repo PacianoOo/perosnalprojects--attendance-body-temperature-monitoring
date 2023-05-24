@@ -9,6 +9,6 @@ arduino uno/nano/mega
 non contact heat sensor (in this case I used a IR heat sensor module)
 real time clock module
 LCD display screen
-1 5v Relay module
+5v Relay module
 
 all of these libraries are downloadable in the arduino IDE.
